@@ -1,5 +1,5 @@
 ## 🐺 Sobre o projeto
-Projetos feitos com o objetivo de reforçar e por em prática os conhecimentos os fundamentos de posicionamento em CSS.
+Projetos feitos com o objetivo de reforçar e por em prática os conhecimentos em fundamentos de posicionamento do CSS.
 
 - [CSS Flexbox](https://www.origamid.com/curso/css-flexbox/)
 

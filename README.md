@@ -1,2 +1,18 @@
-# Posicionamento-CSS
- Repositório para os projetos desenvolvidos durante os cursos de posicionamento em CSS da Origamid
+## 🐺 Sobre o projeto
+Projetos feitos com o objetivo de reforçar e por em prática os conhecimentos os fundamentos de posicionamento em CSS.
+
+- [CSS Flexbox](https://www.origamid.com/curso/css-flexbox/)
+
+
+Projeto FlexBlog: Blog simples com layout responsivo feito utilizando as propriedades do Flexbox.
+
+ 
+## 💻 Tecnologias utilizadas
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- HTML
+- CSS
+- Bootstrap4
+
+
+
